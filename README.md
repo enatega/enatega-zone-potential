@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-org/enatega-zone-potential-ai/main/public/favicon.svg" width="72" height="72" alt="Enatega Zone AI Logo" />
-
 # Enatega Zone Potential AI
 
 **AI-powered delivery market zone analyzer — React Edition**
