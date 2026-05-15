@@ -321,6 +321,6 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 <div align="center">
 
-Built with ❤️ by the [Enatega](https://enatega.com) team · [Website](https://enatega.com) · [WordPress Plugin](https://wordpress.org/plugins/)
+Built with ❤️ by the [Enatega](https://enatega.com) team · [Website](https://enatega.com) 
 
 </div>
